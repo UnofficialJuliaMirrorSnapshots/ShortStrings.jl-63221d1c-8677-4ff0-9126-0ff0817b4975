@@ -1,0 +1,8 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+*.csv
+
+*.png
+!readme_string_sort.png
